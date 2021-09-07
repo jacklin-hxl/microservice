@@ -1,4 +1,4 @@
-name java com.imooc.thrift.message
+namespace java com.imooc.thrift.message
 namespace py message.api
 
 service MessageService {
